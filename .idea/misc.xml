@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/ic_about.xml" value="0.3525" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_detail_product.xml" value="0.22" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_login_activity.xml" value="0.1778115501519757" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_login_avtivity.xml" value="0.25" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_password.xml" value="0.25" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_registrasi.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_explore.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_favorite.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_shop.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_best_selling.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_cart.xml" value="0.25" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_exclusive_offer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_explore.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_favorite.xml" value="0.365625" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_groceries.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_product.xml" value="0.365625" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/menu/menu_bottom_nav.xml" value="0.365625" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_bottom_nav_bar.xml" value="0.251" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_btn_add_green.xml" value="0.251" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_round_white.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_rounded.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_rounded_honeydew.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_rounded_mistyrose.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_rounded_purplesmoke.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_rounded_seashell.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bg_search.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/favorite_checkbox.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_about.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_account.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_arrow_back.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2485" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_bell.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_cart.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_delete_or_close.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_delicery_address.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_detail.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_edit_name.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_explore.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_favorite.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_favorite_fiiled.xml" value="0.335" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_favorite_outline.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_help.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_log_out.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_logo.xml" value="0.3165" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_logo_color.xml" value="0.3165" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_logo_splash.xml" value="0.205" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_menu.xml" value="0.2175" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_minus.xml" value="0.3165" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_orders.xml" value="0.3165" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_payment.xml" value="0.3165" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_person.xml" value="0.205" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_promo.xml" value="0.3165" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_round_add.xml" value="0.3165" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_round_add_green.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_round_delete.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_round_email.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_round_error.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_round_lock_24.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_search.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_shope.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/ic_user.xml" value="0.3385" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/drawable/shape_rect.xml" value="0.205" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_checkout.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_detail_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_password.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_product.xml" value="0.22727272727272727" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_registrasi.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/fragment_account.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/fragment_address.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/fragment_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/fragment_explore.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/fragment_favorite.xml" value="0.33" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/fragment_orders.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/fragment_shop.xml" value="0.25" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/item_best_selling.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/item_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/item_exclusive_offer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/item_explore.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/item_favorite.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/item_groceries.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/item_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/menu/menu_bottom_nav.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.157" />
+        <entry key="..\:/Users/Mustun/AndroidStudioProjects/SeninSepetin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.157" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/bg_button_green.xml" value="0.1" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/bg_round_white.xml" value="0.164" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/ic_delete_or_close.xml" value="0.167" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/ic_log_out.xml" value="0.167" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/ic_logo_splash.xml" value="0.167" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/ic_minus.xml" value="0.164" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/drawable/shape_rect.xml" value="0.1775" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_detail_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_get_started.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_login_avtivity.xml" value="0.25" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_password.xml" value="0.25" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_registrasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_account.xml" value="0.22" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_cart.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_explore.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_shop.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/input_design.xml" value="0.22" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_best_selling.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_cart.xml" value="0.25" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_exclusive_offer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_explore.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_groceries.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/Grocery-Store-Toko-Sembako-master/app/src/main/res/menu/menu_bottom_nav.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_detail_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kadir/AndroidStudioProjects/SeninSepetin/app/src/main/res/layout/activity_login.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

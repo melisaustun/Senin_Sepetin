@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools= "http://schemas.android.com/tools"
+    tools:showIn ="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Kadın">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_ust_giyim"
+                    android:title="Üst Giyim"/>
+                <item
+                    android:id="@+id/nav_alt_giyim"
+                    android:title="Alt Giyim"/>
+                <item
+                    android:id="@+id/nav_elbise"
+                    android:title="Elbise"/>
+                <item
+                    android:id="@+id/nav_ayakkabi"
+                    android:title="Ayakkabı"/>
+            </menu>
+        </item>
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="Erkek">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_ust_giyim2"
+                    android:title="Üst Giyim"/>
+                <item
+                    android:id="@+id/nav_alt_giyim2"
+                    android:title="Alt Giyim"/>
+                <item
+                    android:id="@+id/nav_ayakkabi2"
+                    android:title="Ayakkabı"/>
+            </menu>
+        </item>
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_electronic"
+            android:title="Elektronik"/>
+        <item
+            android:id="@+id/nav_book"
+            android:title="Kitap &amp; Kırtasiye"/>
+
+
+    </group>
+
+</menu>
